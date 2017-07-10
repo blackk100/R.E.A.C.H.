@@ -110,12 +110,12 @@ __Current Mix Stands At 1 Kg Al with (4.54 + 1.32)Kg Ammonium Persulphate with 0
 
 ### Fuel-OX Ratio
 
-![](..\img\eq_1.svg "(NH4)2S2O8 ---1000+ K---> N2 + 2SO2 + 2H2 + 2O2")
+![](eq_1.svg "(NH4)2S2O8 ---1000+ K---> N2 + 2SO2 + 2H2 + 2O2")
 
 All these products react and oxidize Al at elevated temperatures.
 
 The net output of the reaction is approximately 58 KJ/g of Al.
- * ![](..\img\eq_2.svg "8Al + 6O2 -----> 4Al2O3")
+ * ![](eq_2.svg "8Al + 6O2 -----> 4Al2O3")
 
 Therefore 8Al atoms require 3OX molecules.
  * 1 mole of Al requires (N<sub>A</sub> / 8) * 3 moles of OX.
@@ -129,7 +129,7 @@ This is enough for the thermal requirement of the motor.
 
 ### OX-C<sub>31</sub>H<sub>64</sub> Ratio
 
-![](..\img\eq_3.svg "C31H64 + 47O2 ---500+ K---> 31CO2 + 32H2O")
+![](eq_3.svg "C31H64 + 47O2 ---500+ K---> 31CO2 + 32H2O")
 
  * The net output of this reaction is approximately 38 KJ/g of C<sub>31</sub>H<sub>64</sub>
  * This is required to maintain chamber pressure and improve efficiency at low external pressures.
