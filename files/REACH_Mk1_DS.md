@@ -110,12 +110,12 @@ __Current Mix Stands At 1 Kg Al with (4.54 + 1.32)Kg Ammonium Persulphate with 0
 
 ### Fuel-OX Ratio
 
-<img src="https://latex.codecogs.com/svg.latex?(NH_{4})2S_{2}O_{8}&space;\xrightarrow[&space;]{1000&plus;&space;K}&space;N_{2}&space;&plus;&space;2SO_{2}&space;&plus;&space;2H_{2}&space;&plus;&space;2O_{2}" title="(NH_{4})2S_{2}O_{8} \xrightarrow[ ]{1000+ K} N_{2} + 2SO_{2} + 2H_{2} + 2O_{2}" />
+<img src="https://latex.codecogs.com/svg.latex?(NH_{4})2S_{2}O_{8}&space;\xrightarrow[&space;]{1000&plus;&space;K}&space;N_{2}&space;&plus;&space;2SO_{2}&space;&plus;&space;2H_{2}&space;&plus;&space;2O_{2}" title="(NH4)2S2O8 ---1000+ K---> N2 + 2(SO2) + 2(H2) + 2(O2) ...OR... Ammonium Persulphate ---1000+ K---> Nitrogen + Sulphur Dioxide + Hydrogen + Oxygen" />
 
 All these products react and oxidize Al at elevated temperatures.
 
 The net output of the reaction is approximately 58 KJ/g of Al.
- * <img src="https://latex.codecogs.com/svg.latex?8Al&space;&plus;&space;6O_{2}&space;\xrightarrow[&space;]{&space;}&space;4Al_{2}O_{3}" title="8Al + 6O_{2} \xrightarrow[ ]{ } 4Al_{2}O_{3}" />
+ * <img src="https://latex.codecogs.com/svg.latex?8Al&space;&plus;&space;6O_{2}&space;\xrightarrow[&space;]{&space;}&space;4Al_{2}O_{3}" title="8(Al) + 6(O2) ------> 4(Al2O3) ...OR... Aluminium + Oxygen ------> Aluminium Oxide" />
 
 Therefore 8Al atoms require 3OX molecules.
  * 1 mole of Al requires (N<sub>A</sub> / 8) * 3 moles of OX.
@@ -129,7 +129,7 @@ This is enough for the thermal requirement of the motor.
 
 ### OX-C<sub>31</sub>H<sub>64</sub> Ratio
 
-<img src="https://latex.codecogs.com/svg.latex?C_{31}H_{64}&space;&plus;&space;47O_{2}&space;\xrightarrow[&space;]{500&plus;&space;K}&space;31CO_{2}&space;&plus;&space;32H_{2}O" title="C_{31}H_{64} + 47O_{2} \xrightarrow[ ]{500+ K} 31CO_{2} + 32H_{2}O" />
+<img src="https://latex.codecogs.com/svg.latex?C_{31}H_{64}&space;&plus;&space;47O_{2}&space;\xrightarrow[&space;]{500&plus;&space;K}&space;31CO_{2}&space;&plus;&space;32H_{2}O" title="C31H64 + 47(O2) ---500+ K---> 31(CO2) + 32(H2O) ...OR... Paraffin Wax + Oxygen ---500+ K---> Carbon Dioxide + Water" />
 
  * The net output of this reaction is approximately 38 KJ/g of C<sub>31</sub>H<sub>64</sub>
  * This is required to maintain chamber pressure and improve efficiency at low external pressures.
