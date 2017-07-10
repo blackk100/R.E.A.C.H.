@@ -4,14 +4,56 @@
 
 ## Reach Beyond
 
-__TGT : Break Aerospace Limit__
-
-__Total Budget: INR 40,000__
-
 ## Key
 
  1. __(?UL) - Indicates that value falls in the higher range of possible values__
  2. __(?LL) - Indicates that value falls in the lower range of possible values__
+
+## Project Overview
+
+Our aim is to achieve the following with R.E.A.C.H.:
+ 1. Test Expermimental Hybrid Recovery Methods
+ 2. Set Asian Amateur Rocketry Record
+ 3. Breach Karmen Line
+ 
+__TGT : Break Aerospace Limit__
+
+__Total Budget: INR 40,000__
+
+We expect some Assistance from Dominant Research Organizations for Infrastructral Support.
+
+[Infrasturcture Outsourcing List](External_Infrastructure.md)
+
+### Rocket Statistics
+
+|Attribute       |Details                                                                       |Numbers              |Notes                      |
+|:--------------:|:----------------------------------------------------------------------------:|:-------------------:|:-------------------------:|
+|Dimensions      |8m Cylinder with 0.25 Nose Cone of 0.11m Radius                               |8.25 x 0.11          |Aluminium                  |
+|Mass (Dry)      |-                                                                             |121Kg (?LL)          |-                          |
+|Mass (Wet)      |-                                                                             |220Kg (?LL)          |-                          |
+|Range           |100 Km (+ve Acceleration)                                                     |100Km/60Mi           |Karmen Line                |
+|Communications  |Microwave Transmitter                                                         |120Km Range          |Tentatively Powered By ISRO|
+|Logging & Data  |9 Degrees Sensor & 1080p Video & 3Hz Frame Capture                            |-                    |Refer to Electronics List  |
+|Power           |10 9v Battery Array                                                           |90V DC               |-                          |
+|Fuel (Solid)    |Dipropellant: (Aluminium + C<sub>31</sub>H<sub>64</sub>) + Ammonium Persulfate|60 MJ from 6.96Kg    |Energy Capacity            |
+|Motor Dimensions|5.7m PVC Pipe 50mm with 0.105m Radius with 5-star bore                        |5.7 x (0.005 + 0.105)|Tentative & Detachable with Minimal Thrust Variance|
+|Recovery        |Parachuteless Hybrid Recovery                                                 |Internal Sustained G<sub>max</sub> = 473G|Insanity|
+
+## Trajectory Overview
+
+Launch is expected at first light. Launch will be into Wind. Secondary Fins will induce a stabilizing spin.
+
+Communications will stream sensor data & 1080p Pictures (Color) @ 3fps.
+
+At the the line, as acceleration is reported negative by sensors; the recovery fins, which have the radius of curvature of the rocket, will deploy & extend via compressed air.
+
+The connection point of the 3 fins will be 5cm above the ejection mechanism for the motor, just below the battery pack & compressed air tank. After successful telescoping, fins will lock into position and rocket will get a negative velocity.
+
+Due to Center Of Mass & The Gyroscopic Effect, The rocket will exhibit formidable resistance to deflection from its axis of spin which will only improve as the rocket gains spin. However, the rocket will be allowed to drift in the XZ-Plane laterally.
+
+When the rocket has drifted down to acceptable height (50m - 100m), the motor casing will be ejected & the compressed air will be routed to nozzles on the recovery fins. This will turn the whole contraption into a powered helicopter, generating lift, which would bring velocity to zero.
+
+The rocket is then allowed to 'gently crash' into the ground; destroying the part of the fuselage that housed the motor and the fins to slow the rotation. The part of the fuselage above the junction (7+ m) of the recovery fins will be recoverable.
 
 ## Build Materials
 
@@ -50,7 +92,7 @@ __Total Budget: INR 40,000__
 	**Total (?UL) : INR 11,000**
 
  3. ### Electronics
-	__See [Here](Electronics_List.md)__
+	__See [Full Part List](Electronics_List.md)__
 
 	|S No |Part         |Projected Cost|Quantity|Notes           |
 	|:---:|:-----------:|:------------:|:------:|:--------------:|
@@ -59,40 +101,6 @@ __Total Budget: INR 40,000__
 	**Total (?UL) : INR 10,000**
 
 ### TOTAL COST (?UL) : INR 39,500
-
-## Project Overview
-
-Our aim is to achieve the following with R.E.A.C.H.:
- 1. Test Expermimental Hybrid Recovery Methods
- 2. Set Asian Amateur Rocketry Record
- 3. Breach Karmen Line
-
-### Rocket Statistics
-
-|Attribute       |Details                                                                       |Numbers              |Notes                      |
-|:--------------:|:----------------------------------------------------------------------------:|:-------------------:|:-------------------------:|
-|Dimensions      |8m Cylinder with 0.25 Nose Cone of 0.11m Radius                               |8.25 x 0.11          |Aluminium                  |
-|Mass (Dry)      |-                                                                             |121Kg (?LL)          |-                          |
-|Mass (Wet)      |-                                                                             |220Kg (?LL)          |-                          |
-|Range           |100 Km (+ve Acceleration)                                                     |100Km/60Mi           |Karmen Line                |
-|Communications  |Microwave Transmitter                                                         |120Km Range          |Tentatively Powered By ISRO|
-|Logging & Data  |9 Degrees Sensor & 1080p Video & 3Hz Frame Capture                            |-                    |Refer to Electronics List  |
-|Power           |10 9v Battery Array                                                           |90V DC               |-                          |
-|Fuel (Solid)    |Dipropellant: (Alimunium + C<sub>31</sub>H<sub>64</sub>) + Ammonium Persulfate|60 MJ from 6.96Kg    |Energy Capacity            |
-|Motor Dimensions|5.7m PVC Pipe 50mm with 0.105m Radius with 5-star bore                        |5.7 x (0.005 + 0.105)|Tentative & Detachable with Minimal Thrust Variance|
-|Recovery        |Parachuteless Hybrid Recovery                                                 |Internal Sustained G<sub>max</sub> = 473G|Insanity|
-
-## Trajectory Overview
-
-Launch is expected at first light. Launch will be into Wind. Secondary Fins will induce a stabilizing spin. Communications will stream sensor data & 1080p Pictures (Color) @ 3fps.
-
-At the the line, as acceleration is reported negative by sensors; the recovery fins, which have the radius of curvature of the rocket, will deploy & extend via compressed air. The connection point of the 3 fins will be 5cm above the ejection mechanism for the motor, just below the battery pack & compressed air tank. After successful telescoping, fins will lock into position and rocket will get a negative velocity.
-
-Due to Center Of Mass & The Gyroscopic Effect, The rocket will exhibit formidable resistance to deflection from its axis of spin which will only improve as the rocket gains spin. However, the rocket will be allowed to drift in the XZ-Plane laterally.
-
-When the rocket has drifted down to acceptable height (50m - 100m), the motor casing will be ejected & the compressed air will be routed to nozzles on the recovery fins. This will turn the whole contraption into a powered helicopter, generating lift, which would bring velocity to zero.
-
-The rocket is then allowed to 'gently crash' into the ground; destroying the part of the fuselage that housed the motor and the fins to slow the rotation. The part of the fuselage above the junction (7+ m) of the recovery fins will be recoverable.
 
 ## Fuel Mixes
 
@@ -147,7 +155,7 @@ __Total C<sub>31</sub>H<sub>64</sub> is 0.44Kg in 450cm<sup>3</sup>__
 
 __Total Motor Mass ~91 Kg__
 
-__Total Motor Volume 1.73206 x 10<sup>-1</sup> m<sup>3</sup>__
+__Total Motor Volume 0.173206 m<sup>3</sup>__
 
 ## Expected Data/Conditions
 
