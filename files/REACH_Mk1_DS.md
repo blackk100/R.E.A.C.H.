@@ -17,19 +17,19 @@ __Total Budget: INR 40,000__
 
  1. ### Structural
 
-	|S No |Part                                          |Projected Cost              |Quantity|Notes                   |
-	|:---:|:--------------------------------------------:|:--------------------------:|:------:|:-----------------------|
-	|1    |Hardened Automobile Grade Aluminium Sheet 80mm|INR 500/m<sup>2</sup>       |6       |Fuselage is 0.11 (Radius) x 8 (Height) + 0.25 (Nose Cone)|
-	|2    |Stainless Steel Cylinder 0.13m x 0.2m         |INR 1500                    |1       |-                       |
-	|3    |Rivets / Screws / Assorted Tools              |INR 200                     |DNM     |-                       |
-	|4    |Compressed Air Tank 15L @ 2 atm               |INR 3400 (?UL)              |1       |Dimensions are Tentative|
-	|5    |Lever/Latch Locks                             |INR 250                     |4       |-                       |
-	|6    |Aluminum/Copper/Plastic/Rubber Tubing 20mm    |INR 500/m (?UL)             |2       |-                       |
-	|7    |Gas Valves 20mm                               |INR 100                     |2       |Rated for 4 Atm         |
-	|8    |Servos                                        |INR 300 (?UL)               |4       |For Valve Operation     |
-	|9    |Shock Absorbant Foam                          |INR 400/m<sup>2</sup> (?UL) |1.5     |Non-Flammable           |
-	|10   |Telescopic Recovery Fins                      |Custom                      |3       |4.75 + 4.5 + 4.25       |
-	|11   |PVC Pipe 50mm 5.7m x 0.105m                   |Custom                      |1       |-                       |
+	|S No |Part                                          |Projected Cost             |Quantity|Notes                                                    |
+	|:---:|:--------------------------------------------:|:-------------------------:|:------:|:--------------------------------------------------------|
+	|1    |Hardened Automobile Grade Aluminium Sheet 80mm|INR 500/m<sup>2</sup>      |6       |Fuselage is 0.11 (Radius) x 8 (Height) + 0.25 (Nose Cone)|
+	|2    |Stainless Steel Cylinder 0.13m x 0.2m         |INR 1500                   |1       |-                                                        |
+	|3    |Rivets / Screws / Assorted Tools              |INR 200                    |DNM     |-                                                        |
+	|4    |Compressed Air Tank 15L @ 2 atm               |INR 3400 (?UL)             |1       |Dimensions are Tentative                                 |
+	|5    |Lever/Latch Locks                             |INR 250                    |4       |-                                                        |
+	|6    |Aluminum/Copper/Plastic/Rubber Tubing 20mm    |INR 500/m (?UL)            |2       |-                                                        |
+	|7    |Gas Valves 20mm                               |INR 100                    |2       |Rated for 4 Atm                                          |
+	|8    |Servos                                        |INR 300 (?UL)              |4       |For Valve Operation                                      |
+	|9    |Shock Absorbant Foam                          |INR 400/m<sup>2</sup> (?UL)|1.5     |Non-Flammable                                            |
+	|10   |Telescopic Recovery Fins                      |Custom                     |3       |4.75 + 4.5 + 4.25                                        |
+	|11   |PVC Pipe 50mm 5.7m x 0.105m                   |Custom                     |1       |-                                                        |
 
 	_Assorted Adhesives & Tools & Mounts Not Included_
 
@@ -40,7 +40,7 @@ __Total Budget: INR 40,000__
 	|S No |Chemical                         |Projected Cost/KG |Projected Quantity|Notes                                |
 	|:---:|:-------------------------------:|:----------------:|:----------------:|:------------------------------------|
 	|1    |Laboratory Grade Aluminium Powder|INR 120           |5                 |Main Fuel                            |
-	|2    |Parrafin Wax                     |INR 200           |0.5               |Gelling Agent                        |
+	|2    |Paraffin Wax                     |INR 200           |0.5               |Gelling Agent                        |
 	|3    |TEMED                            |INR 1000          |0.05              |Will Get From Labs, Stabilizer for OX|
 	|4    |Ammonium Persulphate             |INR 100           |86                |OX                                   |
 	|5    |Rubber/Resin                     |-                 |Tentative         |Setting Agent                        |
@@ -62,25 +62,25 @@ __Total Budget: INR 40,000__
 
 ## Project Overview
 
-Our aim is to achieve the following with R.E.A.C.H.
+Our aim is to achieve the following with R.E.A.C.H.:
  1. Test Expermimental Hybrid Recovery Methods
  2. Set Asian Amateur Rocketry Record
  3. Breach Karmen Line
 
 ### Rocket Statistics
 
-|Attribute       |Details                                                         |Numb3rs              |Notes                      |
-|:--------------:|:--------------------------------------------------------------:|:-------------------:|:-------------------------:|
-|Dimensions      |8m Cylinder with 0.25 Nose Cone of 0.11m Radius                 |8.25 x 0.11          |Aluminium                  |
-|Mass (Dry)      |-                                                               |121Kg (?LL)          |-                          |
-|Mass (Wet)      |-                                                               |220Kg (?LL)          |-                          |
-|Range           |100 Km (+ve Acceleration)                                       |100Km/60Mi           |Karmen Line                |
-|Communications  |Microwave Transmitter                                           |120Km Range          |Tentatively Powered By ISRO|
-|Logging & Data  |9 Degrees Sensor & 1080p Video & 3Hz Frame Capture              |-                    |Refer to Electronics List  |
-|Power           |10 9v Battery Array                                             |90V DC               |-                          |
-|Fuel (Solid)    |Dipropellant: (Alimunium + Hentriacontane) + Ammonium persulfate|60 MJ from 6.96Kg    |Energy Capacity            |
-|Motor Dimensions|5.7m PVC Pipe 50mm with 0.105m Radius with 5-star bore          |5.7 x (0.005 + 0.105)|Tentative & Detachable with Minimal Thrust Variance|
-|Recovery        |Parachuteless Hybrid Recovery                                   |Internal Sustained G<sub>max</sub> = 473G|Insanity|
+|Attribute       |Details                                                                       |Numbers              |Notes                      |
+|:--------------:|:----------------------------------------------------------------------------:|:-------------------:|:-------------------------:|
+|Dimensions      |8m Cylinder with 0.25 Nose Cone of 0.11m Radius                               |8.25 x 0.11          |Aluminium                  |
+|Mass (Dry)      |-                                                                             |121Kg (?LL)          |-                          |
+|Mass (Wet)      |-                                                                             |220Kg (?LL)          |-                          |
+|Range           |100 Km (+ve Acceleration)                                                     |100Km/60Mi           |Karmen Line                |
+|Communications  |Microwave Transmitter                                                         |120Km Range          |Tentatively Powered By ISRO|
+|Logging & Data  |9 Degrees Sensor & 1080p Video & 3Hz Frame Capture                            |-                    |Refer to Electronics List  |
+|Power           |10 9v Battery Array                                                           |90V DC               |-                          |
+|Fuel (Solid)    |Dipropellant: (Alimunium + C<sub>31</sub>H<sub>64</sub>) + Ammonium Persulfate|60 MJ from 6.96Kg    |Energy Capacity            |
+|Motor Dimensions|5.7m PVC Pipe 50mm with 0.105m Radius with 5-star bore                        |5.7 x (0.005 + 0.105)|Tentative & Detachable with Minimal Thrust Variance|
+|Recovery        |Parachuteless Hybrid Recovery                                                 |Internal Sustained G<sub>max</sub> = 473G|Insanity|
 
 ## Trajectory Overview
 
@@ -104,18 +104,18 @@ __Points to Consider:__
  4. Thermal Conductivity of the Mix Should be Infinitesimal. (High C<sub>31</sub>H<sub>64</sub>% in Mix will help)
  5. Chamber Pressure should be constantly high. (High C<sub>31</sub>H<sub>64</sub>% in Mix will help)
 
-__Current Mix Stands At 1 Kg Al with (4.54 + 1.32)Kg Ammonium Persulphate with 0.105Kg Hentriacontane (C<sub>31</sub>H<sub>64)</sub>__
+__Current Mix Stands At 1 Kg Al with (4.54 + 1.32)Kg Ammonium Persulphate with 0.105Kg Paraffin Wax (C<sub>31</sub>H<sub>64)</sub>__
 
 ## Computational Framework
 
 ### Fuel-OX Ratio
 
-(NH<sub>4</sub>)<sub>2</sub>S<sub>2</sub>O<sub>8</sub> -----<sub>1000+K</sub>----> N<sub>2</sub> + 2SO<sub>2</sub> + 2H<sub>2</sub> + 2O<sub>2</sub>
+![Ammonium Persulphate ---1000+ K---> Nitrogen + Sulphur Dioxide + Hydrogen + Oxygen](/img/eq_1.svg "(NH4)2S2O8 ---1000+ K---> N2 + 2SO2 + 2H2 + 2O2")
 
 All these products react and oxidize Al at elevated temperatures.
 
 The net output of the reaction is approximately 58 KJ/g of Al.
- * 8Al + 6O<sub>2</sub> -------> 4Al<sub>2</sub>O<sub>3</sub>
+ * ![Aluminium + Oxygen -----> Aluminium Oxide](/img/eq_2.svg "8Al + 6O2 -----> 4Al2O3")
 
 Therefore 8Al atoms require 3OX molecules.
  * 1 mole of Al requires (N<sub>A</sub> / 8) * 3 moles of OX.
@@ -129,7 +129,7 @@ This is enough for the thermal requirement of the motor.
 
 ### OX-C<sub>31</sub>H<sub>64</sub> Ratio
 
-C<sub>31</sub>H<sub>64</sub> + 47O<sub>2</sub> -----<sub>500+K</sub>----> 31CO<sub>2</sub> + 32H<sub>2</sub>O
+![Paraffin Wax + Oxygen ---500+ K---> Carbon Dioxide + Water](/img/eq_3.svg "C31H64 + 47O2 ---500+ K---> 31CO2 + 32H2O")
 
  * The net output of this reaction is approximately 38 KJ/g of C<sub>31</sub>H<sub>64</sub>
  * This is required to maintain chamber pressure and improve efficiency at low external pressures.
@@ -157,3 +157,5 @@ __Total Motor Volume 1.73206 x 10<sup>-1</sup> m<sup>3</sup>__
 |G<sub>max</sub>  |473G @ 0.11m from Axis @ 300Hz|-        |
 |Burn Time        |~280s (?LL)                   |Tentative|
 |Total Flight Time|900s (?LL)                    |-        |
+
+##
