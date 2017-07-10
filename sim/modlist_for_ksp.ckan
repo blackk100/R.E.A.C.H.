@@ -1,0 +1,161 @@
+{
+	"kind": "metapackage",
+	"abstract": "A list of modules installed on the default KSP instance",
+	"name": "installed-default",
+	"license": "unknown",
+	"version": "2017.07.10.02.38.48",
+	"identifier": "installed-default",
+	"spec_version": "v1.6",
+	"recommends": [
+		{
+			"name": "ActiveTextureManagement-x86-Aggressive"
+		},
+		{
+			"name": "EditorExtensionsRedux"
+		},
+		{
+			"name": "Toolbar"
+		},
+		{
+			"name": "B9-PWings-Fork"
+		},
+		{
+			"name": "KerbalNRAP"
+		},
+		{
+			"name": "ProceduralFairings"
+		},
+		{
+			"name": "ReentryParticleEffect"
+		},
+		{
+			"name": "PersistentRotation"
+		},
+		{
+			"name": "Telemachus-2"
+		},
+		{
+			"name": "MechJeb2"
+		},
+		{
+			"name": "ProceduralFairings-ForEverything"
+		},
+		{
+			"name": "DeadlyReentry"
+		},
+		{
+			"name": "HullcamVDSContinued"
+		},
+		{
+			"name": "KerboKatzSmallUtilities"
+		},
+		{
+			"name": "TweakScale"
+		},
+		{
+			"name": "TacFuelBalancer"
+		},
+		{
+			"name": "KerboKatzUtilities"
+		},
+		{
+			"name": "KerbalJointReinforcement"
+		},
+		{
+			"name": "KerbalEngineerRedux"
+		},
+		{
+			"name": "FMRSContinued"
+		},
+		{
+			"name": "FlightPlan"
+		},
+		{
+			"name": "StageRecovery"
+		},
+		{
+			"name": "KSP-AVC"
+		},
+		{
+			"name": "RCSBuildAid"
+		},
+		{
+			"name": "CommunityResourcePack"
+		},
+		{
+			"name": "BetterBurnTime"
+		},
+		{
+			"name": "Trajectories"
+		},
+		{
+			"name": "DynamicDeflection"
+		},
+		{
+			"name": "DynamicTextureLoader"
+		},
+		{
+			"name": "ProceduralParts"
+		},
+		{
+			"name": "FerramAerospaceResearch"
+		},
+		{
+			"name": "ModuleManager"
+		},
+		{
+			"name": "ModularFlightIntegrator"
+		},
+		{
+			"name": "FirespitterCore"
+		},
+		{
+			"name": "RecoveryController"
+		},
+		{
+			"name": "ProgressParser"
+		},
+		{
+			"name": "HangarGrid"
+		},
+		{
+			"name": "RealChute"
+		},
+		{
+			"name": "RealPlume"
+		},
+		{
+			"name": "RealPlume-StockConfigs"
+		},
+		{
+			"name": "RetractableLiftingSurface"
+		},
+		{
+			"name": "ShipManifest"
+		},
+		{
+			"name": "TweakableEverythingCont"
+		},
+		{
+			"name": "EngineLighting"
+		},
+		{
+			"name": "SmokeScreen"
+		},
+		{
+			"name": "ToadicusToolsContinued"
+		},
+		{
+			"name": "Kopernicus"
+		},
+		{
+			"name": "KSCSwitcher"
+		},
+		{
+			"name": "RealSolarSystem"
+		},
+		{
+			"name": "RSSTextures2048"
+		}
+	]
+}
