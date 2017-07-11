@@ -1,8 +1,8 @@
 <!-- Uses GitHub Flavoured Markdown-->
 
-# R.E.A.C.H. Mk1  Data Sheet
+# R.E.A.C.H. Mk1 Data Sheet
 
-## Reach Beyond
+### Reach Beyond
 
 ## Key
 
@@ -13,9 +13,9 @@
 
 Our aim is to achieve the following with R.E.A.C.H.:
  1. Test Expermimental Hybrid Recovery Methods
- 2. Set Asian Amateur Rocketry Record
- 3. Breach Karmen Line
- 
+ 2. Set Asian Amateur Rocketry Record for Altitude (Apoapsis)
+ 3. Breach the Kármán Line
+
 __TGT : Break Aerospace Limit__
 
 __Total Budget: INR 40,000__
