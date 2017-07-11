@@ -8,7 +8,7 @@
 
 1. Develop & Test a Cost Effective Solution for Experimental Testing of New Concepts
 2. Mk1 aims To test a Novel Recovery Method
-3. Set Amateur Asian Record For the Altitude (Apoapsis) Eurasian Record for Range of an Amateur Rocket
+3. Set Amateur Asian Record for Altitude (Apoapsis) and Eurasian Record for Range of an Amateur Rocket
 4. Breach the Kármán Line
 
 ## Requirements of R.E.A.C.H. Mk 1
