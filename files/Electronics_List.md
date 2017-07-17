@@ -15,3 +15,4 @@ All costs are as of 2100hrs IST, 07th July, 2017.
 |Other Parts|5    |[Shield stacking headers for Arduino](https://www.adafruit.com/product/85)             |$01.95 |Unknown |Will be required in case of the usage of multiple Arduino Shields|
 |           |6    |Standard (Plain) Headers                                                               |-      |Unknown |Usuall supplied along with modules ([Adafruit Industries](https://www.adafruit.com/) does supply; other manufacturers need to be confirmed)|
 |           |7    |Voltage Level Shifters                                                                 |Unknown|Unknown |Undecided|
+|Power      |8    |Vacuum Insensitive Battery                                                             |Unknown|1       |Needs To Supply Desired Wattage|
