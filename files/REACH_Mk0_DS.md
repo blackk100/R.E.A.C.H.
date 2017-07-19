@@ -122,18 +122,22 @@ __Points to Consider:__
 ## Computational Framework
 
 <img src="https://latex.codecogs.com/svg.latex?\large&space;2NH_{4}ClO_{4}&space;\overset{1000&plus;K}{\rightarrow}&space;N_{2}&space;&plus;&space;3H_{2}&space;&plus;&space;2HCl&space;&plus;&space;4O_{2}"
-title="\large 2NH_{4}ClO_{4} \overset{1000+K}{\rightarrow} N_{2} + 3H_{2} + 2HCl + 4O_{2}" />
+title="\large 2NH_{4}ClO_{4} \overset{1000+K}{\rightarrow} N_{2} + 3H_{2} + 2HCl + 4O_{2}"/>
 
 #### Stoichiometric Mixture Calculation
 
- * 16Al Requires 6OX
- * 432g Requires 705g
- * 1g Requires 1.7g
+ 16 mol Al Requires 6 mol OX
+ 
+ => 432g Al Requires 705g OX
+ 
+ => 1g Al Requires 1.7g OX
 
- *__The Mass Percent of Al:OX is 0.37:0.63__*
+ ***The Mass Percentage of Al is 37%***
+ 
+ ***The Mass Percentage of OX is 63%***
 
-K.E. Was Calculated with <img src="https://latex.codecogs.com/svg.latex?\large&space;\frac{1}{2}mv^2" title="\large \frac{1}{2}mv^2" />
+K.E. Was Calculated with: <img src="https://latex.codecogs.com/svg.latex?\large&space;\frac{1}{2}mv^2" title="\large \frac{1}{2}mv^2" align="center"/>
 
-Height Was Calculated with <img src="https://latex.codecogs.com/svg.latex?\large&space;mgh" title="\large mgh" />
+Height Was Calculated with: <img src="https://latex.codecogs.com/svg.latex?\large&space;mgh" title="\large mgh" align="center"/>
 
 ##
