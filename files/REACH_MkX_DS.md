@@ -2,8 +2,6 @@
 
 # R.E.A.C.H. MkX Data Sheet
 
-### Reach Beyond
-
 ## Key
 
  1. __(?UL) - Indicates that value falls in the higher range of possible values__
