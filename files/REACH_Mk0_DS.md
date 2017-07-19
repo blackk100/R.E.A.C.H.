@@ -2,8 +2,6 @@
 
 # R.E.A.C.H. MkO Data Sheet
 
-### Reach Beyond
-
 ## Key
 
  1. __(?UL) - Indicates that value falls in the higher range of possible values__
@@ -27,17 +25,17 @@ We expect some Assistance from Dominant Research Organizations for Infrastructra
 
 ### Rocket Statistics
 
-|Attribute       |Details                                                                       |Numbers                                  |Notes                                               |
-|:--------------:|:----------------------------------------------------------------------------:|:---------------------------------------:|:--------------------------------------------------:|
-|Dimensions      |2m Cylinder with 0.1 Nose Cone of 0.05m Radius                                |2.1 x 0.05                               |Aluminium   6061-T6                                 |
-|Mass (Wet)      |-                                                                             |4Kg                                      |-                                                   |
-|Range           |100 Km (+ve Acceleration)                                                     |100Km/60Mi                               |Karmen Line                                         |
-|Communications  |Microwave Transmitter                                                         |120Km Range                              |Tentatively Powered By ISRO                         |
-|Logging & Data  |9 Degrees Sensor & 1080p Video & 3Hz Frame Capture                            |-                                        |Refer to Electronics List                           |
-|Power           |Internal Protected Batterypack                                                |-                                        |-                                                   |
-|Fuel (Solid)    |Dipropellant: (Aluminium + HTPB) + Ammonium Perchlorate                       |9.92 MJ/Kg                               |Energy Capacity                                     |
-|Motor Dimensions|Aluminium Pipe 0.04m Radius with 5-star bore                                  |-                                        |Tentative & Detachable with Minimal Thrust Variance |
-|Recovery        |Parachuteless Hybrid Recovery                                                 |Internal Sustained G<sub>max</sub> = 45G |Insanity                                            |
+|Attribute       |Details                                                |Numbers                                 |Notes                                              |
+|:--------------:|:-----------------------------------------------------:|:--------------------------------------:|:-------------------------------------------------:|
+|Dimensions      |2m Cylinder with 0.1 Nose Cone of 0.05m Radius         |2.1 x 0.05                              |Aluminium   6061-T6                                |
+|Mass (Wet)      |-                                                      |4Kg                                     |-                                                  |
+|Range           |100 Km (+ve Acceleration)                              |100Km/60Mi                              |Karmen Line                                        |
+|Communications  |Microwave Transmitter                                  |120Km Range                             |Tentatively Powered By ISRO                        |
+|Logging & Data  |9 Degrees Sensor & 1080p Video & 3Hz Frame Capture     |-                                       |Refer to Electronics List                          |
+|Power           |Internal Protected Batterypack                         |-                                       |-                                                  |
+|Fuel (Solid)    |Dipropellant: (Aluminium + HTPB) + Ammonium Perchlorate|9.92 MJ/Kg                              |Energy Capacity                                    |
+|Motor Dimensions|Aluminium Pipe 0.04m Radius with 5-star bore           |-                                       |Tentative & Detachable with Minimal Thrust Variance|
+|Recovery        |Parachuteless Hybrid Recovery                          |Internal Sustained G<sub>max</sub> = 45G|Insanity                                           |
 
 ## Trajectory Overview
 
@@ -59,19 +57,19 @@ The rocket is then allowed to 'gently crash' into the ground; destroying the par
 
  1. ### Structural
 
-	|S No |Part                                          |Projected Cost                  |Quantity|Notes                                                    |
-	|:---:|:--------------------------------------------:|:------------------------------:|:------:|:--------------------------------------------------------|
-	|1    |Aluminium 6061-T6 10mm                        |INR 5000/m<sup>2</sup> (?UL)    |1.5     |Fuselage is 0.05 (Radius) x 2 (Height) + 0.1 (Nose Cone) |
-	|2    |Stainless Steel Cylinder 0.06m x 0.1m         |INR 2000                        |1       |Tentative Aluminium 6061-T6                              |
-	|3    |Welding Tools                                 |INR 2000                        |DNM     |-                                                        |
-	|4    |Compressed Air Tank 15L @ 2 atm               |INR 3400 (?UL)                  |1       |Dimensions are Tentative                                 |
-	|5    |Lever/Latch Locks                             |INR 250                         |4       |-                                                        |
-	|6    |Aluminum/Copper/Plastic/Rubber Tubing 20mm    |INR 500/m (?UL)                 |2       |-                                                        |
-	|7    |Gas Valves 20mm                               |INR 100                         |2       |Rated for 4 Atm                                          |
-	|8    |Servos                                        |INR 300 (?UL)                   |4       |For Valve Operation                                      |
-	|9    |Shock Absorbant Foam                          |INR 400/m<sup>2</sup> (?UL)     |1.5     |Non-Flammable                                            |
-	|10   |Telescopic Recovery Fins                      |Custom                          |3       |1.75 + 1.5 + 1.25                                        |
-	|11   |Gyroscopes                                    |INR 400                         |2       |-                                                        |
+	|S No |Part                                      |Projected Cost              |Quantity|Notes                                                   |
+	|:---:|:----------------------------------------:|:--------------------------:|:------:|:-------------------------------------------------------|
+	|1    |Aluminium 6061-T6 10mm                    |INR 5000/m<sup>2</sup> (?UL)|1.5     |Fuselage is 0.05 (Radius) x 2 (Height) + 0.1 (Nose Cone)|
+	|2    |Stainless Steel Cylinder 0.06m x 0.1m     |INR 2000                    |1       |Tentative Aluminium 6061-T6                             |
+	|3    |Welding Tools                             |INR 2000                    |DNM     |-                                                       |
+	|4    |Compressed Air Tank 15L @ 2 atm           |INR 3400 (?UL)              |1       |Dimensions are Tentative                                |
+	|5    |Lever/Latch Locks                         |INR 250                     |4       |-                                                       |
+	|6    |Aluminum/Copper/Plastic/Rubber Tubing 20mm|INR 500/m (?UL)             |2       |-                                                       |
+	|7    |Gas Valves 20mm                           |INR 100                     |2       |Rated for 4 Atm                                         |
+	|8    |Servos                                    |INR 300 (?UL)               |4       |For Valve Operation                                     |
+	|9    |Shock Absorbant Foam                      |INR 400/m<sup>2</sup> (?UL) |1.5     |Non-Flammable                                           |
+	|10   |Telescopic Recovery Fins                  |Custom                      |3       |1.75 + 1.5 + 1.25                                       |
+	|11   |Gyroscopes                                |INR 400                     |2       |-                                                       |
 
 	_Assorted Adhesives & Tools & Mounts Not Included_
 
@@ -79,11 +77,11 @@ The rocket is then allowed to 'gently crash' into the ground; destroying the par
 
  2. ### Solid Rocket Motor
 
-	|S No |Chemical                         |Projected Cost/KG |Projected Quantity (?UL)|Notes                                |
-	|:---:|:-------------------------------:|:----------------:|:----------------------:|:------------------------------------|
-	|1    |Laboratory Grade Aluminium Powder|INR 300           |1                       |Main Fuel                            |
-	|2    |Polybutadiene Pellets            |INR 200           |1                       |Binding Agent                        |
-	|3    |Ammonium Perchlorate             |INR 200           |3                       |OX                                   |
+	|S No |Chemical                         |Projected Cost/KG|Projected Quantity (?UL)|Notes        |
+	|:---:|:-------------------------------:|:---------------:|:----------------------:|:------------|
+	|1    |Laboratory Grade Aluminium Powder|INR 300          |1                       |Main Fuel    |
+	|2    |Polybutadiene Pellets            |INR 200          |1                       |Binding Agent|
+	|3    |Ammonium Perchlorate             |INR 200          |3                       |OX           |
 
 	_Material For Test Fires Not Included_
 
@@ -107,19 +105,19 @@ __Points to Consider:__
  5. Chamber Pressure should be constantly high. (BDR will help)
  6. Mixtures denoted in the following Convention; Binder/OX/Fuel Mass %
 
- |                             | Stoichiometric       | JAXA/ISRO          | Wikipedic           |
- | :-------------------------: | :------------------: | :----------------: | :-----------------: |
- | Mass Composition            | 12/58/30             | 12/68/20           | 16/68/16            |
- | Quantized Fuel Unit         | 3.4g                 | 5g                 | 6.25g               |
- | Total Mass                  | 2660g                | 2660g              | 2660g               |
- | Fuel Units                  | 782                  | 532                | 425                 |
- | Range (1% EF)               | 12Km                 | 8Km                | 6Km                 |
- | Target System EF (100Km)    | 9%                   | 13%                | 16%                 |
- | Final Velocity              | 1477m/s              | 1464m/s            | 1451m/s             |
- | Target Burn Time            | 136s                 | 137s               | 139s                |
- | Acceleration                | 10.9m/s<sup>2</sup>  | 10.7m/s<sup>2</sup>| 10.5m/s<sup>2</sup> |
- | Mix Volume                  | 1377cm<sup>3</sup>   | 1426cm<sup>3</sup> | 1494cm<sup>3</sup>  |
- | Tube Length @ 3cm Radius    | 49cm                 | 51cm               | 53cm                | 
+ |                        |Stoichiometric     |JAXA/ISRO          |Wikipedic          |
+ |:----------------------:|:-----------------:|:-----------------:|:-----------------:|
+ |Mass Composition        |12/58/30           |12/68/20           |16/68/16           |
+ |Quantized Fuel Unit     |3.4g               |5g                 |6.25g              |
+ |Total Mass              |2660g              |2660g              |2660g              |
+ |Fuel Units              |782                |532                |425                |
+ |Range (1% EF)           |12Km               |8Km                |6Km                |
+ |Target System EF (100Km)|9%                 |13%                |16%                |
+ |Final Velocity          |1477m/s            |1464m/s            |1451m/s            |
+ |Target Burn Time        |136s               |137s               |139s               |
+ |Acceleration            |10.9m/s<sup>2</sup>|10.7m/s<sup>2</sup>|10.5m/s<sup>2</sup>|
+ |Mix Volume              |1377cm<sup>3</sup> |1426cm<sup>3</sup> |1494cm<sup>3</sup> |
+ |Tube Length @ 3cm Radius|49cm               |51cm               |53cm               |
 
 ## Computational Framework
 

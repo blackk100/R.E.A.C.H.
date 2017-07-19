@@ -2,8 +2,6 @@
 
 # R.E.A.C.H. Mk0 Outsourcing Requirements
 
-### Reach Beyond
-
 ## Objectives of R.E.A.C.H.
 
 1. Develop & Test a Cost Effective Solution for Experimental Testing of New Concepts
@@ -15,12 +13,12 @@
 
 __We hope that the Indian Space Research Organization and/or the Defence Research & Development Organization provide us access/assistance to the following:__
 
-|Field Of Assistance                                        |Details                                                               |Specifics|
-|:---------------------------------------------------------:|:--------------------------------------------------------------------:|:-------:|
-|Long Range Communication                                   |Required Due To Non-availibility of Conventional Connectivity @ 100+Km|Satellite Communications or Microwave Transcievers|
+|Field Of Assistance                                        |Details                                                               |Specifics                                                |
+|:---------------------------------------------------------:|:--------------------------------------------------------------------:|:-------------------------------------------------------:|
+|Long Range Communication                                   |Required Due To Non-availibility of Conventional Connectivity @ 100+Km|Satellite Communications or Microwave Transcievers       |
 |Parts Fabrication Machines                                 |Required Due To Non-availability of Fabrications Tools for Students   |Fabrication of Recovery System & Final Assembly of Rocket|
-|Launching Arena (Guide Rails, Bunker, Remote Ignition etc.)|Required Due To Illegalization of Rocket Launches in Populated Areas  |Guide Rails to Fly Things Right|
-|Trajectory Simulation & Thermodynamic Simulation           |Required For Preflight Testing & Validation                           |Expert Guidance & Simulation Software|
+|Launching Arena (Guide Rails, Bunker, Remote Ignition etc.)|Required Due To Illegalization of Rocket Launches in Populated Areas  |Guide Rails to Fly Things Right                          |
+|Trajectory Simulation & Thermodynamic Simulation           |Required For Preflight Testing & Validation                           |Expert Guidance & Simulation Software                    |
 
 ## Benefits of R.E.A.C.H.
 
