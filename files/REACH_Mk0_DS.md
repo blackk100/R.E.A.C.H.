@@ -15,9 +15,9 @@ Our aim is to achieve the following with R.E.A.C.H.:
  3. Breach the Kármán Line
  4. Setup Framework To Test New Concepts
 
-__TGT : Break Aerospace Limit__
+__TGT: Break Aerospace Limit__
 
-__Total Budget: INR 40,000__
+__Total Budget: 50,000 INR__
 
 We expect some Assistance from Dominant Research Organizations for Infrastructral Support.
 
@@ -25,17 +25,17 @@ We expect some Assistance from Dominant Research Organizations for Infrastructra
 
 ### Rocket Statistics
 
-|Attribute       |Details                                                |Numbers                                 |Notes                                              |
-|:--------------:|:-----------------------------------------------------:|:--------------------------------------:|:-------------------------------------------------:|
-|Dimensions      |2m Cylinder with 0.1 Nose Cone of 0.05m Radius         |2.1 x 0.05                              |Aluminium   6061-T6                                |
-|Mass (Wet)      |-                                                      |4Kg                                     |-                                                  |
-|Range           |100 Km (+ve Acceleration)                              |100Km/60Mi                              |Karmen Line                                        |
-|Communications  |Microwave Transmitter                                  |120Km Range                             |Tentatively Powered By ISRO                        |
-|Logging & Data  |9 Degrees Sensor & 1080p Video & 3Hz Frame Capture     |-                                       |Refer to Electronics List                          |
-|Power           |Internal Protected Batterypack                         |-                                       |-                                                  |
-|Fuel (Solid)    |Dipropellant: (Aluminium + HTPB) + Ammonium Perchlorate|9.92 MJ/Kg                              |Energy Capacity                                    |
-|Motor Dimensions|Aluminium Pipe 0.04m Radius with 5-star bore           |-                                       |Tentative & Detachable with Minimal Thrust Variance|
-|Recovery        |Parachuteless Hybrid Recovery                          |Internal Sustained G<sub>max</sub> = 45G|Insanity                                           |
+|Attribute       |Details                                                |Numbers                                 |Notes                                                 |
+|:--------------:|:-----------------------------------------------------:|:--------------------------------------:|:----------------------------------------------------:|
+|Dimensions      |2m Cylinder with 0.1 Nose Cone of 0.05m Radius         |2.1 x 0.05                              |Aluminium 6061-T6                                     |
+|Mass (Wet)      |-                                                      |4Kg                                     |-                                                     |
+|Range           |100 Km (+ve Acceleration)                              |100Km/60Mi                              |Karmen Line                                           |
+|Communications  |Microwave/RF Transceiver                               |120Km Range                             |Undecided                                             |
+|Logging & Data  |9 Degrees Sensor & 1080p Video & 3Hz Frame Capture     |-                                       |Refer to Electronics List                             |
+|Power           |Internal Protected Batterypack                         |-                                       |-                                                     |
+|Fuel (Solid)    |Dipropellant: (Aluminium + HTPB) + Ammonium Perchlorate|9.92 MJ/Kg                              |Energy Capacity                                       |
+|Motor Dimensions|Aluminium Pipe 0.04m Radius with 5-star bore           |-                                       |Designed to be detachable with minimal Thrust variance|
+|Recovery        |Parachuteless Hybrid Recovery                          |Internal Sustained G<sub>max</sub> = 45G|Insanity                                              |
 
 ## Trajectory Overview
 
@@ -73,7 +73,7 @@ The rocket is then allowed to 'gently crash' into the ground; destroying the par
 
 	_Assorted Adhesives & Tools & Mounts Not Included_
 
-	**Total (?UL) : INR 20,300**
+	**Total (?UL): 20,300 INR**
 
  2. ### Solid Rocket Motor
 
@@ -85,14 +85,14 @@ The rocket is then allowed to 'gently crash' into the ground; destroying the par
 
 	_Material For Test Fires Not Included_
 
-	**Total (?UL) : INR 3,000**
+	**Total (?UL): 3,000 INR**
 
  3. ### Electronics
 	__See [Full Part List](Electronics_List.md)__
 
-	**Total (?UL) : INR 12,000**
+	**Total (?UL): INR 20,000**
 
-### TOTAL COST (?UL) : INR 35,300
+### TOTAL COST (?UL): 45,300 INR
 
 ## Fuel Mixes
 
@@ -127,13 +127,13 @@ title="\large 2NH_{4}ClO_{4} \overset{1000+K}{\rightarrow} N_{2} + 3H_{2} + 2HCl
 #### Stoichiometric Mixture Calculation
 
  16 mol Al Requires 6 mol OX
- 
+
  => 432g Al Requires 705g OX
- 
+
  => 1g Al Requires 1.7g OX
 
  ***The Mass Percentage of Al is 37%***
- 
+
  ***The Mass Percentage of OX is 63%***
 
 K.E. Was Calculated with: <img src="https://latex.codecogs.com/svg.latex?\large&space;\frac{1}{2}mv^2" title="\large \frac{1}{2}mv^2" align="center"/>
