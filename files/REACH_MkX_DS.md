@@ -10,20 +10,20 @@
 ## Project Overview
 
 Our aim is to achieve the following with R.E.A.C.H.:
- 1. Test Expermimental Hybrid Recovery Methods
- 2. Set Asian Amateur Rocketry Record for Altitude (Apoapsis)
- 3. Breach the Kármán Line
- 4. Setup Framework To Test New Concepts
+ 1. Develop & test a cost-effective solution for experimental testing of new concepts;
+ 2. Test a novel recovery method;
+ 3. Set Amateur Asian Record for Altitude (Apoapsis) and Eurasian Record for Range of an Amateur Rocket;
+ 4. Ultimately breach the Karman Line.
 
 __TGT: Cheap Concept Testing__
 
 __Total Budget (?UL): 400,000 INR__
 
-We will require assistance from other organizations for Infrastructral Support.
+We will require assistance from other organizations for Infrastructural Support.
 
-[Infrasturcture Outsourcing List](External_Infrastructure.md)
+[Infrastructure Outsourcing List](External_Infrastructure.md)
 
-This is our final vision for the project: To launch hardware upto 10kg-100kg mass into Low Earth Orbit for as low as 400,000 INR/Launch (~6,500 USD).
+This is our final vision for the project: To reduce the cost per kilogram for inserting hardware upto 10kg-30kg mass into Low Earth Orbit under 1,000 USD/kg (~ 400,000 INR/launch (~6,500 USD))
 
 ### Rocket Statistics
 
@@ -34,8 +34,8 @@ This is our final vision for the project: To launch hardware upto 10kg-100kg mas
 |Mass (Wet)      |-                                                     |320Kg (?LL)                              |-                                                     |
 |Range           |Multiburn Orbit Insertion                             |400Km/240Mi                              |Low Earth Orbit                                       |
 |Communications  |Satellite Networks                                    |500+Km Range                             |Undecided                                             |
-|Fuel (Liquid)   |Hybrid Dipropellant: Methane / Hydrogen With Oxygen   |140 MJ from 1.11Kg (?UL)                 |Energy Capacity                                       |
+|Fuel (Liquid)   |Hybrid Bipropellant: Methane / Hydrogen With Oxygen   |140 MJ from 1.11Kg (?UL)                 |Energy Capacity                                       |
 |Motor Dimensions|5.7m PVC Pipe 50mm with 0.105m Radius with 5-star bore|5.7 x (0.005 + 0.105)                    |Designed to be detachable with minimal Thrust variance|
-|Recovery        |Parachuteless Hybrid Recovery                         |Internal Sustained G<sub>max</sub> = 473G|Insanity                                              |
+|Recovery        |Parachute-less Hybrid Recovery                        |Internal Sustained G<sub>max</sub> = 473G|Insanity                                              |
 
 ##
