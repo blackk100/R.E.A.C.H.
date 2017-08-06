@@ -5,12 +5,11 @@ body, html {
   background-color: black;
   height: 100%;
   font-family: 'Nunito', sans-serif;
-  font-size: 20px;
   color: white;
 }
 
 .bg {
-  background-image: url(../img/CircleStickerBlueSimple.png);
+  background-image: url(../img/REACH-Orb.svg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
@@ -38,7 +37,6 @@ body, html {
   left: 48.5%;
   transform: translate(-50%, -50%);
   text-align: center;
-  color: black;
 }
 
 a {
