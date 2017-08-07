@@ -1,0 +1,50 @@
+body {
+	color: #cccccc;
+  padding-top: 5rem;
+	background-color: #282828;
+}
+
+.jumbotron {
+	color: #ffffff;
+	background-color: #282828;
+	background-image: url("../img/bg.gif");
+	background-position: top;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-clip: no-clip;
+}
+
+.project {
+	background-image: url("../img/REACH-Orb.svg");
+	background-position: center;
+}
+
+.science {
+	background-image: url("../img/rocket-plume.gif");
+	background-position: center;
+}
+
+.opensource {
+	background-color: #484848;
+	background-image: url("../img/GitHub_Logo.png");
+	background-position: center;
+}
+a.fb {
+  color: #3b5998;
+}
+
+a.tweet {
+  color: #00aced;
+}
+
+a.gplus {
+  color: #d34836;
+}
+
+a.insta {
+  color: #bc2a8d;
+}
+
+a.generic {
+  color: #f9f9f9;
+}
