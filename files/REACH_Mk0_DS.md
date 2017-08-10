@@ -17,7 +17,7 @@ Our aim is to achieve the following with R.E.A.C.H.:
 
 __TGT: Break Aerospace Limit__
 
-__Total Budget: 50,000 INR__
+__Total Budget: 70,000 INR__
 
 We expect some assistance from research organizations for infrastructural support.
 
@@ -25,17 +25,17 @@ We expect some assistance from research organizations for infrastructural suppor
 
 ### Rocket Statistics
 
-|Attribute       |Details                                                |Numbers                                 |Notes                                                 |
-|:--------------:|:-----------------------------------------------------:|:--------------------------------------:|:----------------------------------------------------:|
-|Dimensions      |2m Cylinder with 0.1 Nose Cone of 0.05m Radius         |2.1 x 0.05                              |Aluminium 6061-T6                                     |
-|Mass (Wet)      |-                                                      |4Kg                                     |-                                                     |
-|Range           |100 Km (+ve Acceleration)                              |100Km/60Mi                              |Karman Line                                           |
-|Communications  |Microwave/RF Transceiver                               |120Km Range                             |Undecided                                             |
-|Logging & Data  |9 Degrees Sensor & 1080p Video & 3Hz Frame Capture     |-                                       |Refer to Electronics List                             |
-|Power           |Internal, Reinforced battery pack                      |-                                       |-                                                     |
-|Fuel (Solid)    |Bipropellant: (Aluminium + HTPB) + Ammonium Perchlorate|9.92 MJ/Kg                              |Energy Capacity                                       |
-|Motor Dimensions|Aluminium Pipe 0.04m Radius with 5-star bore           |-                                       |Designed to be detachable with minimal Thrust variance|
-|Recovery        |Parachute-less Hybrid Recovery                          |Internal Sustained G<sub>max</sub> = 45G|Insanity                                              |
+|Attribute       |Details                                                   |Numbers                                 |Notes                                                 |
+|:--------------:|:--------------------------------------------------------:|:--------------------------------------:|:----------------------------------------------------:|
+|Dimensions      |2m Cylinder with 0.1 Nose Cone of 0.05m Radius            |2.1 x 0.05                              |Aluminium 6061-T6                                     |
+|Mass (Wet)      |-                                                         |4Kg                                     |-                                                     |
+|Range           |100 Km (+ve Acceleration)                                 |100Km/60Mi                              |Karman Line                                           |
+|Communications  |Microwave/RF Transceiver                                  |120Km Range                             |Undecided                                             |
+|Logging & Data  |9 Degrees Sensor & 1080p Video & 3Hz Frame Capture        |-                                       |Refer to Electronics List                             |
+|Power           |Internal, Reinforced battery pack                         |-                                       |-                                                     |
+|Fuel (Solid)    |Bipropellant: (Aluminium + HTPB) + Ammonium Perchlorate   |9.92 MJ/Kg                              |Energy Capacity                                       |
+|Motor Dimensions|Titanium Alloy Grade 6 Pipe 0.04m Radius with 5-star bore |-                                       |Designed to be detachable with minimal Thrust variance|
+|Recovery        |Parachute-less Hybrid Recovery                            |Internal Sustained G<sub>max</sub> = 45G|Insanity                                              |
 
 ## Trajectory Overview
 
@@ -60,7 +60,7 @@ The rocket is then allowed to 'gently crash' into the ground; destroying the par
 	|S No |Part                                       |Projected Cost              |Quantity|Notes                                                   |
 	|:---:|:-----------------------------------------:|:--------------------------:|:------:|:-------------------------------------------------------|
 	|1    |Aluminium 6061-T6 10mm                     |INR 5000/m<sup>2</sup> (?UL)|1.5     |Fuselage is 0.05 (Radius) x 2 (Height) + 0.1 (Nose Cone)|
-	|2    |Stainless Steel Cylinder 0.06m x 0.1m      |INR 2000                    |1       |Tentative Aluminium 6061-T6                             |
+	|2    |Stainless Steel Cylinder 0.06m x 0.1m      |INR 2000                    |1       |-                                                       |
 	|3    |Welding Tools                              |INR 2000                    |DNM     |-                                                       |
 	|4    |Compressed Air Tank 15L @ 2 atm            |INR 3400 (?UL)              |1       |Dimensions are Tentative                                |
 	|5    |Lever/Latch Locks                          |INR 250                     |4       |-                                                       |
@@ -70,10 +70,11 @@ The rocket is then allowed to 'gently crash' into the ground; destroying the par
 	|9    |Shock Absorbent Foam                       |INR 400/m<sup>2</sup> (?UL) |1.5     |Non-Flammable                                           |
 	|10   |Telescopic Recovery Fins                   |Custom                      |3       |1.75 + 1.5 + 1.25                                       |
 	|11   |Gyroscopes                                 |INR 400                     |2       |-                                                       |
+	|12   |Titanium Alloy Grade 6 Pipe 0.045m x 1.2m  |INR 15000                   |1       |                                                        |
 
 	_Assorted Adhesives & Tools & Mounts Not Included_
 
-	**Total (?UL): 20,300 INR**
+	**Total (?UL): 35,300 INR**
 
  2. ### Solid Rocket Motor
 
@@ -92,37 +93,36 @@ The rocket is then allowed to 'gently crash' into the ground; destroying the par
 
 	**Total (?UL): INR 20,000**
 
-### TOTAL COST (?UL): 45,300 INR
+### TOTAL COST (?UL): 60,300 INR
 
 ## Fuel Mixes
 
 __Points to Consider:__
 
  1. Al oxidation to Al<sub>2</sub>O<sub>3</sub> is highly exothermic with 62 KJ/g of Al.
- 2. OX decays only above 1000K.
- 3. Burn Temperature should not exceed Melting Point of casing.
- 4. Thermal Conductivity of the Mix should be infinitesimal. (BDR will help)
- 5. Chamber Pressure should be constantly high. (BDR will help)
- 6. Mixtures denoted in the following convention; Binder/OX/Fuel Mass %
+ 2. Burn Temperature should not exceed Melting Point of casing.
+ 3. Thermal Conductivity of the Mix should be infinitesimal. (BDR will help)
+ 4. Chamber Pressure should be constantly high. (BDR will help)
+ 5. Mixtures denoted in the following convention; Binder/OX/Fuel Mass %
 
- |                        |Stoichiometric     |JAXA/ISRO          |Wikipedic          |
- |:----------------------:|:-----------------:|:-----------------:|:-----------------:|
- |Mass Composition        |12/58/30           |12/68/20           |16/68/16           |
- |Quantized Fuel Unit     |3.4g               |5g                 |6.25g              |
- |Total Mass              |2660g              |2660g              |2660g              |
- |Fuel Units              |782                |532                |425                |
- |Range (1% EF)           |12Km               |8Km                |6Km                |
- |Target System EF (100Km)|9%                 |13%                |16%                |
- |Final Velocity          |1477m/s            |1464m/s            |1451m/s            |
- |Target Burn Time        |136s               |137s               |139s               |
- |Acceleration            |10.9m/s<sup>2</sup>|10.7m/s<sup>2</sup>|10.5m/s<sup>2</sup>|
- |Mix Volume              |1377cm<sup>3</sup> |1426cm<sup>3</sup> |1494cm<sup>3</sup> |
- |Tube Length @ 3cm Radius|49cm               |51cm               |53cm               |
+ |                        |Stoichiometric     |JAXA/ISRO               |Wikipedic          |
+ |:----------------------:|:-----------------:|:----------------------:|:-----------------:|
+ |Mass Composition        |12/58/30           |12/68/20                |16/68/16           |
+ |Quantized Fuel Unit     |3.4g               |5g                      |6.25g              |
+ |Total Mass              |2660g              |2660g                   |2660g              |
+ |Fuel Units              |782                |532                     |425                |
+ |Range (1% EF)           |12Km               |8Km                     |6Km                |
+ |Target System EF (100Km)|9%                 |13%                     |16%                |
+ |Mix Volume              |1377cm<sup>3</sup> |1426cm<sup>3</sup>      |1494cm<sup>3</sup> |
+ |Tube Length @ 3cm Radius|98cm               |102cm                   |106cm              |
+ |Gas Evolution Rate      |0.44 mol/s         |0.65 mol/s              |0.84 mol/s         |
+ |Burn Temperature        |873K               |773K                    |673K               |
+ |Internal Pressure       |NA                 |1.45 x 10<sup>8</sup> Pa|NA                 |
 
 ## Computational Framework
 
-<img src="https://latex.codecogs.com/svg.latex?\large&space;2NH_{4}ClO_{4}&space;\overset{1000&plus;K}{\rightarrow}&space;N_{2}&space;&plus;&space;3H_{2}&space;&plus;&space;2HCl&space;&plus;&space;4O_{2}"
-title="\large 2NH_{4}ClO_{4} \overset{1000+K}{\rightarrow} N_{2} + 3H_{2} + 2HCl + 4O_{2}"/>
+<img src="https://latex.codecogs.com/svg.latex?\large&space;2NH_{4}ClO_{4}&space;\overset{500&plus;K}{\rightarrow}&space;N_{2}&space;&plus;&space;3H_{2}&space;&plus;&space;2HCl&space;&plus;&space;4O_{2}"
+title="\large 2NH_{4}ClO_{4} \overset{500+K}{\rightarrow} N_{2} + 3H_{2} + 2HCl + 4O_{2}"/>
 
 #### Stoichiometric Mixture Calculation
 
@@ -135,9 +135,5 @@ title="\large 2NH_{4}ClO_{4} \overset{1000+K}{\rightarrow} N_{2} + 3H_{2} + 2HCl
  ***The Mass Percentage of Al is 37%***
 
  ***The Mass Percentage of OX is 63%***
-
-K.E. Was Calculated with: <img src="https://latex.codecogs.com/svg.latex?\large&space;\frac{1}{2}mv^2" title="\large \frac{1}{2}mv^2" align="center"/>
-
-Height Was Calculated with: <img src="https://latex.codecogs.com/svg.latex?\large&space;mgh" title="\large mgh" align="center"/>
 
 ##
