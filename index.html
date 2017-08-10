@@ -18,26 +18,26 @@
     <script src="assets/js/bootstrap.min.js"></script>
     <script src="assets/js/ie10-viewport-bug-workaround.js"></script>
 		<!--- Other Stuff --->
-		<link rel="icon" href="assets/img/REACH-Orb.ico">
+		<link rel="icon" href="assets/img/reach/REACH-Orb.ico">
 		<title>REACH</title>
 	</head>
 	<body>
 		<!--- Navbar --->
-		<nav class="navbar navbar-toggleable-md navbar-inverse fixed-top bg-inverse">
+		<nav class="navbar navbar-toggleable-sm fixed-top navbar-inverse bg-inverse">
 			<div class="container">
-				<button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
 					<span class="navbar-toggler-icon"></span>
 				</button>
-				<a class="navbar-brand">
-					<img src="assets/img/REACH-Orb.svg" alt="Reach Orb">&nbsp;&nbsp;&nbsp;REACH
-					</a>
+				<div class="navbar-brand">
+					<img src="assets/img/reach/REACH-Orb.svg" alt="Reach Orb" width="50" height="50">&nbsp;&nbsp;&nbsp;REACH
+				</div>
 				<div class="collapse navbar-collapse dual-collapse" id="navbarsExampleDefault">
 					<ul class="navbar-nav ml-auto w-100 justify-content-end">
 						<li class="nav-item active">
 							<a class="nav-link">Home<span class="sr-only">(current)</span></a>
 						</li>
-						<li class="nav-item dropdown">
-							<a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">About</a>
+						<li class="nav-item dropdown dropdown-inverse">
+							<a class="nav-link dropdown-toggle" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">About</a>
 							<div class="dropdown-menu" aria-labelledby="dropdown01">
 								<a class="dropdown-item" href="about/project">The Project</a>
 								<a class="dropdown-item" href="about/team">The Team</a>
@@ -58,28 +58,24 @@
 		<div class="jumbotron">
 			<div class="container">
 				<h1 class="display-3">REACH for the stars!&#13;&#10;</h1>
-				<p><pre>
-</pre>REACH is an amateur rocketery project by a group of 3 high school students from Hyderabad, India, which they believe can revolutionize the space industry.<pre>
-
-</pre></p>
+				<pre></pre><p>REACH is an amateur rocketery project by a group of 3 high school students from Hyderabad, India, which they believe can revolutionize the space industry.</p><pre></pre>
 				<p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more &raquo;</a></p>
 			</div>
 		</div>
 		<!--- Content --->
 		<div class="container">
 			<div class="row">
-				<div class="col-md-4">
+				<div class="col-sm-4">
 					<h2>Heading</h2>
 					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra eget diam in volutpat. Praesent felis ligula, rutrum in mattis at, auctor vitae nunc. Vivamus.</p>
 					<p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
 				</div>
-				<div class="col-md-4">
+				<div class="col-sm-4">
 					<h2>Heading</h2>
-					<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras aliquam purus in purus congue eleifend. Quisque pharetra, odio eget egestas gravida, nisl sem vulputate diam.</p>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras aliquam purus in purus congue eleifend. Quisque pharetra, odio eget egestas gravida, nisl sem vulputate diam.</p>
 					<p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
 			 </div>
-				<div class="col-md-4">
+				<div class="col-sm-4">
 					<h2>Heading</h2>
 					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis nunc dictum, blandit augue in, aliquet mauris. Aenean iaculis imperdiet mi sed efficitur. Curabitur sapien.</p>
 					<p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
@@ -89,31 +85,34 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras aliquam purus in p
 			<br>
 			<!--- Footer --->
 			<footer>
-				<div class="container">
-					<div class="row">
-						<div class="col-md-4">
-							<div class="row">
-								<div class="col-md-3">
-									<p><a href="https://www.facebook.com/" class="fb"><span class="fa fa-facebook fa-lg"></span></a></p>
+				<div class="container-fluid">
+					<div class="row justify-content-center">
+						<div class="col-sm-4">
+							<div class="row justify-content-center">
+								<div class="col-4">
+									<p align="right"><a href="https://www.facebook.com/" class="fb"><span class="fa fa-facebook fa-lg"></span></a></p>
 								</div>
-								<div class="col-md-3">
-									<p><a href="https://twitter.com/" class="tweet"><span class="fa fa-twitter fa-lg"></span></a></p>
+								<div class="col-4">
+									<p align="center"><a href="https://twitter.com/" class="tweet"><span class="fa fa-twitter fa-lg"></span></a></p>
 								</div>
-								<div class="col-md-3">
-									<p><a href="https://plus.google.com/" class="gplus"><span class="fa fa-google-plus fa-lg"></span></a></p>
-								</div>
-								<div class="col-md-3">
-									<p><a href="https://www.instagram.com/" class="insta"><span class="fa fa-instagram fa-lg"></span></a></p>
+								<div class="col-4">
+									<p align="left"><a href="https://plus.google.com/" class="gplus"><span class="fa fa-google-plus fa-lg"></span></a></p>
 								</div>
 							</div>
+						</div>
+						<div class="col-sm-4">
+							<p align="center">Made with <span class="fa fa-heart fa-lg" class="generic"></span>, <span class="fa fa-code fa-lg" class="generic"></span> &amp; <span class="fa fa-coffee fa-lg" class="generic"></span> by <a href="https://blackk100.github.io/" class="generic">Aryaman Srivastav</a>.</p>
+						</div>
+						<div class="col-sm-4">
+							<p align="center">CHIREC International School, Hyderabad, Telangana, India</p>
+						</div>
+					</div>
+					<div class="row justify-content-center">
+						<div class="col-sm-4">
 							<p align="center"><span class="fa fa-envelope fa-lg" class="generic"></span> - <a href="mailto:example@domain.com" class="generic">example@domain.com</a></p>
 						</div>
-						<div class="col-md-4">
-							<p align="center">Made with <span class="fa fa-heart fa-lg" class="generic"></span>, <span class="fa fa-code fa-lg" class="generic"></span> &amp; <span class="fa fa-coffee fa-lg" class="generic"></span> by <a href="https://blackk100.github.io/" class="generic">Aryaman Srivastav</a>.</p>
-							<p align="center">Hosted on <a href="https://github.com/blackk100/REACH/tree/gh-pages" class="generic"><span class="fa fa-github fa-lg" text-align="center"></span></a></p>
-						</div>
-						<div class="col-md-4">
-							<p align="center">CHIREC International School, Hyderabad, Telangana, India</p>
+						<div class="col-sm-4">
+							<p align="center">Hosted on <a href="https://github.com/blackk100/REACH/tree/gh-pages" class="generic"><img src="assets/img/github/github.svg" alt="GitHub" width="75" /></a></p>
 						</div>
 					</div>
 				</div>

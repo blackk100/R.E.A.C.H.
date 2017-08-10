@@ -4,31 +4,35 @@ body {
 	background-color: #282828;
 }
 
+.navbar {
+	padding-top: 1rem;
+}
+
 .jumbotron {
 	color: #ffffff;
 	background-color: #282828;
-	background-image: url("../img/bg.gif");
-	background-position: top;
+	background-image: url("../img/bg/bg.gif");
+	background-position: "left top";
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-clip: no-clip;
 }
 
 .project {
-	background-image: url("../img/REACH-Orb.svg");
+	background-image: url("../img/reach/REACH-Orb.svg");
 	background-position: center;
 }
 
 .science {
-	background-image: url("../img/rocket-plume.gif");
+	background-image: url("../img/bg/rocket-plume.gif");
 	background-position: center;
 }
 
 .opensource {
 	background-color: #484848;
-	background-image: url("../img/GitHub_Logo.png");
-	background-position: center;
+	background-image: url("../img/github/github.svg");
 }
+
 a.fb {
   color: #3b5998;
 }
@@ -39,10 +43,6 @@ a.tweet {
 
 a.gplus {
   color: #d34836;
-}
-
-a.insta {
-  color: #bc2a8d;
 }
 
 a.generic {
